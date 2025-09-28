@@ -1,5 +1,5 @@
 # 🏦 Simple Bank System Implementation
-
+To be honest, I used Gemini to help me write this README and some unit tests.
 This repository contains a simple, pure Python solution to implement a basic bank system. It manages customer creation, lending with simple interest, processing repayments, and calculating outstanding debt while adhering to strict overpayment prevention rules.
 
 ## 📝 Challenge Requirements
